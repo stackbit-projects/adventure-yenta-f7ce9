@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: Adventure 1 page
 template: page
 ---
 
