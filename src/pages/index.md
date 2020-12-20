@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Find your next adventure
-    subtitle: Optional hero section subtitle
+    subtitle: Off the beaten track for everyone
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
