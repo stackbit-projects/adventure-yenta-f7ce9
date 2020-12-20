@@ -2,7 +2,17 @@
 title: Adventure 1 page
 template: page
 ---
-This is where I'd write everything about the trip
+Synopsis of the trip here
+
+### Quick facts
+### 
+
+Type of trip
+<br><br>
+Distance from Toronto
+
+
+
 
 **Sample map**
 
