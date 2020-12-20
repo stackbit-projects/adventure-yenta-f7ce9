@@ -4,6 +4,10 @@ template: page
 ---
 This is where I'd write everything about the trip
 
+**Sample map**
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1kLTRVkxLDtGdgwPUCqPVcenFwAzIyzq4" width="640" height="480"></iframe>
+
 # This is an H1
 ## This is an H2
 ### This is an H3
